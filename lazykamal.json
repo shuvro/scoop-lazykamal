@@ -1,12 +1,12 @@
 {
-    "version": "0.2.4",
+    "version": "0.2.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/shuvro/lazykamal/releases/download/v0.2.4/lazykamal_0.2.4_windows_amd64.zip",
+            "url": "https://github.com/shuvro/lazykamal/releases/download/v0.2.5/lazykamal_0.2.5_windows_amd64.zip",
             "bin": [
                 "lazykamal.exe"
             ],
-            "hash": "0667aea7401c54151dbdb128c4c0d2d2afb0343e62561a80b9818d8203351017"
+            "hash": "a5840e99e330bbc7c0b504bcdefe69f9178372ac6870767dbcef2bdd267799a0"
         }
     },
     "homepage": "https://github.com/shuvro/lazykamal",
